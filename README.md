@@ -1,4 +1,4 @@
-# Animated Drawings
+## Animated Drawings
 
 ![Sequence 02](https://user-images.githubusercontent.com/6675724/219223438-2c93f9cb-d4b5-45e9-a433-149ed76affa6.gif)
 
